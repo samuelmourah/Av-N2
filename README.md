@@ -1,6 +1,6 @@
 
 # Av-N2
-Este repositorio possui codigos que ao ser execultado calcula a area de formas geometricas planas como: triangulo, quadrado, hexagono...E.T.C.
+Este repositorio possui codigos que ao ser execultado calculando a area de formas geometricas planas como: triangulo, quadrado, hexagono...E.T.C.
 
 # PROJETO FORMAS GEOMETRICAS PLANAS
 # Objetivo:
